@@ -43,6 +43,7 @@ public class Persona {
 	
 	//la dvd xd
 	//+10 lince
+	//ahora p
 	
 	
 }
